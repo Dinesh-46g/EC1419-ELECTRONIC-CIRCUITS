@@ -26,8 +26,6 @@
 
 ## Tabulation
 
-## Graph
-### CALCULATION:
 
 <img width="857" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdb20758-79d1-4542-8309-e371340f3022" />
 <img width="808" height="1280" alt="image" src="https://github.com/user-attachments/assets/75ec25d0-abfa-4291-a373-0885e08e09e7" />
