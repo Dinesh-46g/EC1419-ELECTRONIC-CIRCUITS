@@ -24,8 +24,7 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
-
+## Tabulation:
 
 <img width="857" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdb20758-79d1-4542-8309-e371340f3022" />
 
